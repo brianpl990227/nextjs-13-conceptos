@@ -1,0 +1,2 @@
+Esa carpeta (with-banner) se pone entre parentesis para indicar que es un grupo
+Ese grupo puede compartir el mismo layout
